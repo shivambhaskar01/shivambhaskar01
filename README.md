@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Results‑driven DevOps Manager with 8+ years of expertise in optimizing software delivery pipelines, architecting scalable cloud solutions, and driving<br>end‑to‑end automation across the SDLC. Demonstrated success in leading high‑performance teams to design and implement CI/CD pipelines,<br>containerized environments, and IaC frameworks, while ensuring robust cloud security and cost optimization. Skilled at enhancing system performance,<br>driving operational agility, and cultivating a culture of innovation and resilience.</p>
+<p align="left">Senior DevOps, SRE, and Platform Engineering leader with 8+ years owning CI/CD platforms and large scale cloud reliability across healthcare, banking, and telecommunications. Administers Jenkins, JFrog Artifactory and XRay. Builds automation and Developer Portal plugins (React, TypeScript) and leads SRE/DevOps engineers through Scrum-based operations, incident and change governance, stakeholder alignment, SLO ownership, on-call incident command, and cross-functional delivery. Operates cloud platforms on AWS, Azure, and GCP spanning Kubernetes, Terraform, Vault/CyberArk secrets, DevSecOps, SRE, FinOps, and LLM tooling including MCP and RAG. Delivered 75% infrastructure cost reduction, 142% increase in deployment frequency, and 92% lower MTTR. Supported HIPAA/HITRUST and ONC certification through audit remediation and penetration-test finding closure.</p>
 
 ###
 
